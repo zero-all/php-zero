@@ -2,7 +2,7 @@
 
 php-zero是一个集成了各种工程实践的web和rpc框架。通过弹性设计保障了大并发服务端的稳定性，经受了充分的实战检验。
 
-php-zero 包含极简的 API 定义和生成工具 phpctl，可以根据定义的 api 文件一键生成 PHP, iOS, Android, Kotlin, Dart, TypeScript, JavaScript 代码，并可直接运行。
+php-zero 包含极简的 API 定义和生成工具 goctl-php，可以根据定义的 api 文件一键生成 PHP, iOS, Android, Kotlin, Dart, TypeScript, JavaScript 代码，并可直接运行。
 
 使用php-zero的好处：
 
